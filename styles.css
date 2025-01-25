@@ -1,0 +1,40 @@
+body{
+    background-color: brown;
+}
+.Container{
+    background-color: tomato;
+    color: rgb(43, 23, 46);
+    width: 700px;
+    border: 2px solid black;
+    margin: auto;
+    display: flex;
+}
+#colIzq{
+    width: 50%;
+    height: 700px;
+    background-color: chartreuse;
+}
+#colDer{
+    width: 50%;
+    height: 700px;
+    background-color: darkorchid;
+}
+#Titulo{
+    background-color: aqua;
+}
+#Imagen1{
+    width: 100%;
+    height: auto;
+}
+#Imagen2{
+    width: 100%;
+    height: auto;
+}
+.btn{
+    align-items: center;
+}
+#TituloWeb{
+    color: yellow;
+    margin: auto;
+    text-align: center;
+}
